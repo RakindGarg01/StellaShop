@@ -1,0 +1,88 @@
+{
+    "items" : [
+        {
+            "description" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+            "discountedPrice" : 340,
+            "price" : 450,
+            "thumbnail" : "placeholder.jpg",
+            "title" : "Title of The Item 1"
+        },
+        {
+            "description" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+            "discountedPrice" : 369,
+            "price" : 452,
+            "thumbnail" : "placeholder.jpg",
+            "title" : "Title of The Item 2"
+        },
+        {
+            "description" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+            "discountedPrice" : 606,
+            "price" : 622,
+            "thumbnail" : "placeholder.jpg",
+            "title" : "Title of The Item 3"
+        },
+        {
+            "description" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+            "discountedPrice" : 691,
+            "price" : 755,
+            "thumbnail" : "placeholder.jpg",
+            "title" : "Title of The Item 4"
+        },
+        {
+            "description" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+            "discountedPrice" : 840,
+            "price" : 975,
+            "thumbnail" : "placeholder.jpg",
+            "title" : "Title of The Item 5"
+        },
+        {
+            "description" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+            "discountedPrice" : 907,
+            "price" : 1000,
+            "thumbnail" : "placeholder.jpg",
+            "title" : "Title of The Item 6"
+        },
+        {
+            "description" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+            "discountedPrice" : 1002,
+            "price" : 1500,
+            "thumbnail" : "placeholder.jpg",
+            "title" : "Title of The Item 7"
+        },
+        {
+            "description" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+            "discountedPrice" : 1022,
+            "price" : 1500,
+            "thumbnail" : "placeholder.jpg",
+            "title" : "Title of The Item 8"
+        },
+        {
+            "description" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+            "discountedPrice" : 1002,
+            "price" : 1500,
+            "thumbnail" : "placeholder.jpg",
+            "title" : "Title of The Item 9"
+        },
+        {
+            "description" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+            "discountedPrice" : 1022,
+            "price" : 1500,
+            "thumbnail" : "placeholder.jpg",
+            "title" : "Title of The Item 10"
+        },
+        {
+            "description" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+            "discountedPrice" : 1002,
+            "price" : 1500,
+            "thumbnail" : "placeholder.jpg",
+            "title" : "Title of The Item 11"
+        },
+        {
+            "description" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+            "discountedPrice" : 1022,
+            "price" : 1500,
+            "thumbnail" : "placeholder.jpg",
+            "title" : "Title of The Item 12"
+        }
+    ]
+}

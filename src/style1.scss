@@ -1,0 +1,82 @@
+.cart-container {
+    &:hover {
+        background-color: rgba($color: black, $alpha: 0.5);
+    }
+    span{
+        background-color: red;
+        border-radius: 50%;
+        padding:2px 5px;
+        top: -10px;
+        position: relative;
+    }
+}
+
+.modal {
+    position: fixed;
+    top: 150px;
+    left: 50px;
+    width: 400px;
+    height: 100px;
+    background-color: yellow;
+    padding: 1rem;
+    border-radius: 2px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.25);
+    z-index: 999999!important;
+    animation: slide-down 300ms ease-out forwards;
+
+    button[type="close"] {
+        position: absolute;
+        right: 10px;
+        top: 10px;
+        background-color: unset;
+        border: unset;
+        cursor: pointer;
+    }
+}
+
+@media (min-width: 768px) {
+    .modal {
+        width: 40rem;
+        left: calc(50% - 20rem);
+    }
+}
+
+@keyframes slide-down {
+    from {
+        opacity: 0;
+        transform: translate(-50%,0px);
+    }
+
+    to {
+        opacity: 1;
+        transform: translate(-50%,30%);
+    }
+}
+
+.modal2 {
+    position: fixed;
+    top: 0%;
+    left: 50%;
+    transform: translate(-50%, 30%);
+    width: 450px;
+    height: 500px;
+    background-color: white;
+    padding: 1rem;
+    border-radius: 10px;
+    // color: black;
+    z-index: 11;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.55);
+    animation: slide-down 1s ease;
+    
+}
+#closing {
+    position: absolute;
+    top: 5px;
+    right: 10px;
+    padding: 10px;
+    border-radius: 50px;
+}
+#closing:hover{
+    border-radius: 5px ;
+    background-color: red;
+}
